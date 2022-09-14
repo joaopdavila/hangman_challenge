@@ -1,7 +1,4 @@
 # Hangman Challenge
-
-<br>
-
 ## Desafio do Jogo de Forca
 
 <br>
@@ -13,12 +10,12 @@
 
 <br>
 
-<strong>Regras</strong>
-
-### Modo de Jogar
+## <strong>Regras</strong>
 
  <details>
     <p>
+
+### <strong>Modo de Jogar</strong>
 
 - Palavra
   - Será solicitado que a 1ª pessoa insira uma palavra no sistema. Essa palavra passa a ser o objetivo a ser descoberto pela 2ª pessoa
@@ -34,7 +31,7 @@
 
 <br>
 
-### Vidas
+### <strong>Vidas</strong>
 
 - A 2ª pessoa terá a seguinte quantidade de lidas:
   - 1 + Qtd. de letras na *palavra-objetivo*
